@@ -1,0 +1,25 @@
+del %~dp0Debug\*.obj
+del %~dp0Release\*.obj
+del %~dp0Debug\*.tlog
+del %~dp0Release\*.tlog
+del %~dp0Debug\*.manifest
+del %~dp0Release\*.manifest
+del %~dp0Debug\*.idb
+del %~dp0Release\*.idb
+del %~dp0Debug\*.pdb
+del %~dp0Release\*.pdb
+del %~dp0Debug\*.rc
+del %~dp0Release\*.rc
+del %~dp0Debug\*.res
+del %~dp0Release\*.res
+del %~dp0Debug\*.log
+del %~dp0Release\*.log
+del %~dp0Debug\*.ilk
+del %~dp0Release\*.ilk
+del %~dp0Debug\*.exe
+del %~dp0Release\*.exe
+del %~dp0Debug\*.lastbuildstate
+del %~dp0Release\*.lastbuildstate
+del %~dp0PrimeGen_WinAPI.sdf
+del %~dp0PrimeGen_WinAPI.aps
+pause
