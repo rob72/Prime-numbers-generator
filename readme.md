@@ -1,1 +1,1 @@
-GMP-based prime numbers generator (Including big numbers, for using in cryptography). It is also possible to find safe prime numbers 1024 bits long. Contains implementations of various primality tests in the form of classes.
+GMP-based prime numbers generator (Including big numbers, for using in cryptography). It is also possible to find safe prime numbers up to 1024 bits long. Contains implementations of various primality tests in the form of classes.
